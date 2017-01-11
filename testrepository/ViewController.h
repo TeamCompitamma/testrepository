@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController{
     int hirotaka;
+    int matsuhiro;
 }
 
 
